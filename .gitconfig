@@ -17,3 +17,5 @@
 [user]
 	email = https://github.com/Jhon0498/Semana4.git
 	name = jhon0498
+[credential]
+	helper = store
